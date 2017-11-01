@@ -17,6 +17,9 @@ One of the vital metrics is salaries indicator of MSIS graduates, who often sear
 
 https://public.tableau.com/profile/muhammad.adeel3420#!/vizhome/Lab_6SCU_MSIS_Dashboard/AcceptanceRate_Student_FacultyRatio?publish=yes
 
+<img width="892" alt="untitled 1" src="https://user-images.githubusercontent.com/31932632/32261707-99882fc4-be8d-11e7-8cf1-f478c6c9a311.png">
+
+
 Fig 1.1
 
 Claim Fig 1.1:
