@@ -45,6 +45,8 @@ in hiring SCU graduates, further highlighting the quality and recognition of the
 
 https://public.tableau.com/profile/muhammad.adeel3420#!/vizhome/Lab_6SCU_MSIS_Dashboard/AcceptanceRate_Student_FacultyRatio?publish=yes
  
+<img width="806" alt="scu msis acceptance rate" src="https://user-images.githubusercontent.com/31932632/32261920-d3ae423c-be8e-11e7-9a2c-dd909763bf8a.png">
+
 Fig 1.3
 
 Claim Fig 1.3:
