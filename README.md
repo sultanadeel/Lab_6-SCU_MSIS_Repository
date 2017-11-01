@@ -30,6 +30,9 @@ Recruiters by looking at Fig 1.1 visual would be well aware of the Data Analyst 
 
 https://public.tableau.com/profile/muhammad.adeel3420#!/vizhome/Lab_6SCU_MSIS_Dashboard/AcceptanceRate_Student_FacultyRatio?publish=yes
  
+ <img width="754" alt="scu msis alumni" src="https://user-images.githubusercontent.com/31932632/32261824-5c086e38-be8e-11e7-8f93-7ddb3df0a8d0.png">
+
+ 
 Fig 1.2
 Claim Fig 1.2:
 SCU MSIS Alumni are working at top Silicon Valley firms
